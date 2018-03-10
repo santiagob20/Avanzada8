@@ -32,7 +32,7 @@ public class indexbean {
     public String validar()
     {
         if(dato.equals("1234")){
-        return "principal.xhtml";
+        return "entrar";
         }
         return "";
     }    
